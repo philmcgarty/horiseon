@@ -4,10 +4,12 @@
     padding: 0;
     margin: 0;
 }
+
 /* BODY */
 body {
     background-color: #d9dcd6;
 }
+
 /* HEADER SECTION */
 header {
     padding: 20px;
@@ -41,6 +43,8 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+/* HEADER END */
+
 
 a {
     color: #ffffff;
@@ -71,12 +75,15 @@ p {
     margin-left: 25px;
 }
 
+/* MAIN ARTICLE */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+
+/* SIDE BAR SECTION */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -135,7 +142,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* SIDE BAR END */
 
+/* ARTICLES */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -163,6 +172,7 @@ p {
     color: #ffffff;
 }
 
+/* MAIN CONTENT IMAGES */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -175,6 +185,7 @@ p {
     max-height: 200px;
 }
 
+/* MAIN CONTENT HEADINGS */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -202,3 +213,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/* FOOTER END */
