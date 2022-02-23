@@ -2,6 +2,8 @@
 
 ## About This Project
 
+This is the landing page of Horiseon, a digital project management and marketing firm.  So far the site consists of just this page, and it outlines the services that Horiseon provides.  The links at the top of the page direct the user to anchor elements further down the page.
+
 Horiseon have tasked me with making their website more accessible.  The website that they have already is fully functional, but there are some problems with the code - these include a lack of image descriptions, lack of semantic HTML, and repetition within the stylesheet.
 
 Although the site is fully operational, the above noted problems will cause issues for users with accessibility needs, and have bloated the stylesheet to make it overly complicated and therefore inefficient.
@@ -15,8 +17,8 @@ To fix these issues I implemented the following changes to the HTML and CSS:
 
 ---
 ## How the Project Should Appear
-Below is an image provided by the design team at Horiseon of how the website should appear once the project has been completed.
-![Mock-up design from Horiseon](./assets/images/Horiseon-page-demo.png)
+Below is an image of the completed website after all changes have been made.
+![Screenshot of the Horiseon landing page](./assets/images/horiseon-screenshot.png)
 
 ---
 ## Links
